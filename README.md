@@ -2,4 +2,4 @@
 
 useful resource for restful api
 
-code part+words
+code 
